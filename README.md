@@ -1,21 +1,19 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./assets/images/main-illustration.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shanta</h1>
 <h3 align="center">A MERN stack based Full-Stack Web and Android Developer.</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+-   🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Machine Learning with Tensorflow.**
+-   🌱 I’m currently learning **Machine Learning with Tensorflow.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-   👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://example.com)** -->
 
-- 📫 How to reach me **coder.shanta@gmail.com**
-
+-   📫 How to reach me **coder.shanta@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -56,7 +54,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -66,6 +63,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -76,6 +74,7 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
