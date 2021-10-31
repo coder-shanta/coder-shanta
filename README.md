@@ -20,23 +20,23 @@
 <p align="left">
 
 <a title="Html5" href="https://www.w3.org/html/" target="\_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a title="Css3" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a title="Webpack" href="https://webpack.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webpack.png"/></a>
-<a title="React.js" href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<a title="Node.js" style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a title="Express.js" href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a title="Mysql" style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-<a title="Mongodb" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-<a title="Firebase" href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-<a title="Python" href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a title="Git" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a title="Redux" href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-<a title="Kotlin" href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
-<a title="Postman" href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-<a title="Vs Code" href="https://code.visualstudio.com/" target="_blank"> <img src="./assets/icons/vscode.png" alt="Vs Code" width="45" height="45"/> </a>
-<a title="Android Studio" href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/> </a>
+<a title="Css3" href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a title="Bootstrap" href="https://getbootstrap.com"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a title="Webpack" href="https://webpack.js.org/"><img src="https://img.icons8.com/color/48/000000/webpack.png"/></a>
+<a title="React.js" href="https://reactjs.org/"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a title="Node.js" style="padding-right:8px;" href="https://nodejs.org"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a title="Express.js" href="https://expressjs.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a title="Mysql" style="padding-right:8px;" href="https://www.mysql.com/"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+<a title="Mongodb" href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+<a title="Firebase" href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a title="Python" href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a title="Git" href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<a title="Redux" href="https://redux.js.org"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<a title="Kotlin" href="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+<a title="Postman" href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+<a title="Vs Code" href="https://code.visualstudio.com/"> <img src="./assets/icons/vscode.png" alt="Vs Code" width="45" height="45"/> </a>
+<a title="Android Studio" href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"/> </a>
 
 </p>
 
