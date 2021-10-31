@@ -44,32 +44,29 @@
 <br/>
 
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-shanta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-shanta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
+<h1 align="center">📊 My Github Stats</h1>
 
-  <br/>
-   <img alt="Shanta Miah's Github Stats" width="100%"  src="https://github-readme-stats.vercel.app/api?username=coder-shanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<p align="center">
+   <img alt="Shanta Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coder-shanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+<p align="center">
+  <img alt="Shanta Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-shanta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
-  <img alt="Shanta Miah's Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-shanta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
+<p align="center">
 <img alt="Shanto Miah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-shanta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-<br/>
-<br/>
+</p>
 
 ## Follow me in:
 
 <p align="left">
-<a href="https://fb.com/coder.shanto"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://twitter.com/to_shanto"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://fb.com/coder.shanta"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://twitter.com/to_shanta"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
