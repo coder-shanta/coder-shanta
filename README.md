@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./assets/images/main-illustration.png" height="155px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="./assets/images/main-illustration.png" height="155px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shanta</h1>
 <h3 align="center">A MERN stack based Full-Stack Web and Android App Developer.</h3>
