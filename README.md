@@ -7,7 +7,7 @@
 
 <!-- -   🔭 I’m currently working on **[Covid-19 Tracker](https://example.com/)** -->
 
--   🌱 I’m currently learning **Machine Learning with Tensorflow.**
+-   🌱 I’m currently learning **Web 3.0 & Blockchain Technology**
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
