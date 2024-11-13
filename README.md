@@ -50,27 +50,27 @@
 <h1 align="center">📊 My Github Stats</h1>
 
 <p align="center">
-   <img alt="shanta.dev Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coder-shanta.dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   <img alt="shanta.dev Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coder-shanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 <p align="center">
-  <img alt="shanta.dev Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-shanta.dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="shanta.dev Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-shanta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
-<img alt="Shanto Miah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-shanta.dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Shanta Miah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coder-shanta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
 
 ## Follow me in:
 
 <p align="left">
-<a href="https://fb.com/coder.shanta.dev"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://twitter.com/to_shanta.dev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://fb.com/coder.shanta"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://twitter.com/to_shanta"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 
-<img src="https://komarev.com/ghpvc/?username=coder-shanta.dev">
-<img src="https://img.shields.io/github/followers/coder-shanta.dev?label=Followers&style=social" alt="GitHub Badge">
+<img src="https://komarev.com/ghpvc/?username=coder-shanta">
+<img src="https://img.shields.io/github/followers/coder-shanta?label=Followers&style=social" alt="GitHub Badge">
